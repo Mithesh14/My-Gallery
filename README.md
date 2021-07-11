@@ -3,7 +3,7 @@
 
 # Project demo link
 
-<a href="https://mithesh14.github.io/Recipe-page/">My Gallery</a>
+<a href="https://mithesh14.github.io/My-Gallery/">My Gallery</a>
 
 # Screenshots 
 
